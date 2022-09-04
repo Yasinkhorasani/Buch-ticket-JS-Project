@@ -21,7 +21,7 @@ function showNav() {
     //console.log(dropDownChord);
 
     const finalChords = {
-        height: dropDownChord.height /*- 10*/,
+        height: dropDownChord.height /*- 9*/,
         width: dropDownChord.width,
         left: dropDownChord.left - parentElChords.left,
         top: dropDownChord.top - parentElChords.top,
